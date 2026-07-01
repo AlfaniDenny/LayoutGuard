@@ -1,0 +1,14 @@
+{
+  "query_type": "component",
+  "search": "R_PD",
+  "matches": [
+    {
+      "ref": "R3",
+      "value": "R_PD",
+      "mpn": "R_PD"
+    }
+  ],
+  "truncated": false,
+  "shown": 1,
+  "total": 1
+}

@@ -1,0 +1,20 @@
+Instruction
+
+I will be reviewing a KiCad schematic for the BTS7xx Smart7 IC.
+
+Use this guidance file as the sole reference for evaluation:
+@BTS7xx_review_context.md
+
+The schematic is located at:
+C:\Users\AlfaniD\Downloads\IPD\PROJECT\sch_review\BTS7xxx-1EPP\schematic\your_design.kicad_sch
+
+The CLI tool is available at:
+C:\path\to\ai-skills\skills\schematic-analyzer\scripts\schematic-cli.py
+
+Please follow these steps:
+1. Run an overview of the schematic to identify all components
+2. Query each component related to the BTS7xx (main IC, capacitors,
+   resistors in its vicinity)
+3. Compare the found values against the checklist in BTS7xx_review_context.md
+4. Produce a complete review report per pin using the output format
+   defined in the guidance file

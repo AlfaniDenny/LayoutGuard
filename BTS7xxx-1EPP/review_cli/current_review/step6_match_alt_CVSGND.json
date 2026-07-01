@@ -1,0 +1,14 @@
+{
+  "query_type": "component",
+  "search": "CVSGND",
+  "matches": [
+    {
+      "ref": "C5",
+      "value": "CVSGND",
+      "mpn": "CVSGND"
+    }
+  ],
+  "truncated": false,
+  "shown": 1,
+  "total": 1
+}

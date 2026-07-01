@@ -1,0 +1,68 @@
+{
+  "query_type": "component",
+  "ref": "D2",
+  "value": "DZ1",
+  "mpn": "DZ1",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "D2",
+    "Value": "DZ1"
+  },
+  "nets": [
+    {
+      "name": "Net-(D2-K)",
+      "pin": "K"
+    },
+    {
+      "name": "GND",
+      "pin": "A"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "Net-(D2-K)",
+        "fanout": 3,
+        "cross_page": false,
+        "local_refs": [
+          "R8",
+          "R9"
+        ],
+        "connected_refs": [
+          "R8",
+          "R9"
+        ]
+      },
+      {
+        "net": "GND",
+        "fanout": 11,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "C5",
+          "D1",
+          "R1",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "C5",
+          "D1",
+          "R1",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "query_type": "component",
+  "ref": "R1",
+  "value": "R_LOAD",
+  "mpn": "R_LOAD",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "R1",
+    "Value": "R_LOAD"
+  },
+  "nets": [],
+  "neighbors": {
+    "shared_nets": []
+  }
+}

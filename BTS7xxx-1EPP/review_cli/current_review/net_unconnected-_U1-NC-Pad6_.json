@@ -1,0 +1,17 @@
+{
+  "query_type": "net",
+  "name": "unconnected-(U1-NC-Pad6)",
+  "hierarchical_labels": [],
+  "global_labels": [],
+  "local_labels": [],
+  "pages": [
+    "BTS70044-1EPP_DatasheetV"
+  ],
+  "pins": [
+    {
+      "ref": "U1",
+      "pin": "NC",
+      "page": "BTS70044-1EPP_DatasheetV"
+    }
+  ]
+}

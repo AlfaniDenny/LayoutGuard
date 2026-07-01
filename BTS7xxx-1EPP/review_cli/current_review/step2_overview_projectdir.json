@@ -1,0 +1,20 @@
+{
+  "project_overview": {
+    "project_page_count": 1,
+    "project_component_count": 0,
+    "project_dnp_count": 0,
+    "project_net_count": 0,
+    "root_schematic_filename": "BTS7xxx-1EPP.kicad_sch",
+    "referenced_page_count": 0
+  },
+  "page_navigation": [
+    {
+      "page_index": 1,
+      "page_name": "BTS7xxx-1EPP",
+      "page_source_file": "BTS7xxx-1EPP.kicad_sch",
+      "page_type": "root",
+      "symbol_count": 0
+    }
+  ],
+  "core_component_candidates": []
+}

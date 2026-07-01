@@ -1,0 +1,14 @@
+{
+  "query_type": "component",
+  "search": "CSENSE",
+  "matches": [
+    {
+      "ref": "C4",
+      "value": "CSENSE",
+      "mpn": "CSENSE"
+    }
+  ],
+  "truncated": false,
+  "shown": 1,
+  "total": 1
+}

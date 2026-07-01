@@ -1,0 +1,16 @@
+{
+  "query_type": "component",
+  "ref": "C1",
+  "value": "CVS",
+  "mpn": "CVS",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "C1",
+    "Value": "CVS"
+  },
+  "nets": [],
+  "neighbors": {
+    "shared_nets": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "query_type": "component",
+  "ref": "C2",
+  "value": "Cout0",
+  "mpn": "Cout0",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "C2",
+    "Value": "Cout0"
+  },
+  "nets": [
+    {
+      "name": "Net-(C2-Pad1)",
+      "pin": "1"
+    },
+    {
+      "name": "GND",
+      "pin": "2"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "Net-(C2-Pad1)",
+        "fanout": 5,
+        "cross_page": false,
+        "local_refs": [
+          "R1",
+          "R2",
+          "R3",
+          "U1"
+        ],
+        "connected_refs": [
+          "R1",
+          "R2",
+          "R3",
+          "U1"
+        ]
+      },
+      {
+        "net": "GND",
+        "fanout": 11,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C4",
+          "C5",
+          "D1",
+          "D2",
+          "R1",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C4",
+          "C5",
+          "D1",
+          "D2",
+          "R1",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ]
+      }
+    ]
+  }
+}

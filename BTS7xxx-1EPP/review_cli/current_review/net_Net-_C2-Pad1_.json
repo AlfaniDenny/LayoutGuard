@@ -1,0 +1,62 @@
+{
+  "query_type": "net",
+  "name": "Net-(C2-Pad1)",
+  "hierarchical_labels": [],
+  "global_labels": [],
+  "local_labels": [],
+  "pages": [
+    "BTS70044-1EPP_DatasheetV"
+  ],
+  "pins": [
+    {
+      "ref": "C2",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "R1",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "R2",
+      "pin": "2",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "R3",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "OUT",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "OUT",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "OUT",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "OUT",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "OUT",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "OUT",
+      "page": "BTS70044-1EPP_DatasheetV"
+    }
+  ]
+}

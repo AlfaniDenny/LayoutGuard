@@ -1,0 +1,50 @@
+{
+  "query_type": "component",
+  "ref": "R9",
+  "value": "1k",
+  "mpn": "1k",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "R9",
+    "Value": "1k"
+  },
+  "nets": [
+    {
+      "name": "Net-(D2-K)",
+      "pin": "1"
+    },
+    {
+      "name": "ADC",
+      "pin": "2"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "ADC",
+        "fanout": 2,
+        "cross_page": false,
+        "local_refs": [
+          "C4"
+        ],
+        "connected_refs": [
+          "C4"
+        ]
+      },
+      {
+        "net": "Net-(D2-K)",
+        "fanout": 3,
+        "cross_page": false,
+        "local_refs": [
+          "D2",
+          "R8"
+        ],
+        "connected_refs": [
+          "D2",
+          "R8"
+        ]
+      }
+    ]
+  }
+}

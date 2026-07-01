@@ -1,0 +1,74 @@
+{
+  "query_type": "component",
+  "ref": "C5",
+  "value": "CVSGND",
+  "mpn": "CVSGND",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "C5",
+    "Value": "CVSGND"
+  },
+  "nets": [
+    {
+      "name": "Vs",
+      "pin": "1"
+    },
+    {
+      "name": "GND",
+      "pin": "2"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "Vs",
+        "fanout": 6,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C3",
+          "D1",
+          "Q1",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C3",
+          "D1",
+          "Q1",
+          "U1"
+        ]
+      },
+      {
+        "net": "GND",
+        "fanout": 11,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "D1",
+          "D2",
+          "R1",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "D1",
+          "D2",
+          "R1",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ]
+      }
+    ]
+  }
+}

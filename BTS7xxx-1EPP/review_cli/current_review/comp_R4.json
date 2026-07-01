@@ -1,0 +1,62 @@
+{
+  "query_type": "component",
+  "ref": "R4",
+  "value": "RGND",
+  "mpn": "RGND",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "R4",
+    "Value": "RGND"
+  },
+  "nets": [
+    {
+      "name": "GND",
+      "pin": "1"
+    },
+    {
+      "name": "unconnected-(R4-Pad2)",
+      "pin": "2"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "unconnected-(R4-Pad2)",
+        "fanout": 1,
+        "cross_page": false,
+        "local_refs": [],
+        "connected_refs": []
+      },
+      {
+        "net": "GND",
+        "fanout": 11,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "C5",
+          "D1",
+          "D2",
+          "R1",
+          "R3",
+          "R7",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "C5",
+          "D1",
+          "D2",
+          "R1",
+          "R3",
+          "R7",
+          "U1"
+        ]
+      }
+    ]
+  }
+}

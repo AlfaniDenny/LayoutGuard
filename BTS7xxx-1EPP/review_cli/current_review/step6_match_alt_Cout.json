@@ -1,0 +1,14 @@
+{
+  "query_type": "component",
+  "search": "Cout",
+  "matches": [
+    {
+      "ref": "C2",
+      "value": "Cout0",
+      "mpn": "Cout0"
+    }
+  ],
+  "truncated": false,
+  "shown": 1,
+  "total": 1
+}

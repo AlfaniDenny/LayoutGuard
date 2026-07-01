@@ -1,0 +1,17 @@
+{
+  "query_type": "component",
+  "ref": "D1",
+  "value": "TVS Diode",
+  "mpn": "TVS Diode",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "D1",
+    "Value": "TVS Diode",
+    "Footprint": "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
+  },
+  "nets": [],
+  "neighbors": {
+    "shared_nets": []
+  }
+}

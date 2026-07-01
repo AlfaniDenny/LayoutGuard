@@ -1,0 +1,52 @@
+{
+  "query_type": "component",
+  "ref": "C3",
+  "value": "CVS",
+  "mpn": "CVS",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "C3",
+    "Value": "CVS"
+  },
+  "nets": [
+    {
+      "name": "Vs",
+      "pin": "1"
+    },
+    {
+      "name": "unconnected-(C3-Pad2)",
+      "pin": "2"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "unconnected-(C3-Pad2)",
+        "fanout": 1,
+        "cross_page": false,
+        "local_refs": [],
+        "connected_refs": []
+      },
+      {
+        "net": "Vs",
+        "fanout": 6,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C5",
+          "D1",
+          "Q1",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C5",
+          "D1",
+          "Q1",
+          "U1"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "query_type": "component",
+  "search": "DZ1",
+  "matches": [
+    {
+      "ref": "D2",
+      "value": "DZ1",
+      "mpn": "DZ1"
+    }
+  ],
+  "truncated": false,
+  "shown": 1,
+  "total": 1
+}

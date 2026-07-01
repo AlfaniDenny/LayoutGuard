@@ -1,0 +1,14 @@
+{
+  "query_type": "component",
+  "search": "RSENSE",
+  "matches": [
+    {
+      "ref": "R7",
+      "value": "RSENSE",
+      "mpn": "RSENSE"
+    }
+  ],
+  "truncated": false,
+  "shown": 1,
+  "total": 1
+}

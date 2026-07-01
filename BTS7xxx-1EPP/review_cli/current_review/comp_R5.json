@@ -1,0 +1,48 @@
+{
+  "query_type": "component",
+  "ref": "R5",
+  "value": "RIN_4k7",
+  "mpn": "RIN_4k7",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "R5",
+    "Value": "RIN_4k7"
+  },
+  "nets": [
+    {
+      "name": "Net-(U1-IN)",
+      "pin": "1"
+    },
+    {
+      "name": "GPIO",
+      "pin": "2"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "GPIO",
+        "fanout": 2,
+        "cross_page": false,
+        "local_refs": [
+          "R6"
+        ],
+        "connected_refs": [
+          "R6"
+        ]
+      },
+      {
+        "net": "Net-(U1-IN)",
+        "fanout": 2,
+        "cross_page": false,
+        "local_refs": [
+          "U1"
+        ],
+        "connected_refs": [
+          "U1"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "query_type": "page",
+  "index": 1,
+  "name": "BTS70044-1EPP_DatasheetV",
+  "file": "BTS70044-1EPP_DatasheetV.kicad_sch",
+  "type": "root",
+  "component_count": 18,
+  "net_count": 0,
+  "components": [
+    {
+      "ref": "R2",
+      "value": "R_OL",
+      "mpn": "R_OL"
+    },
+    {
+      "ref": "U1",
+      "value": "BTS7004-1EPP",
+      "mpn": "BTS7004-1EPP"
+    },
+    {
+      "ref": "C4",
+      "value": "CSENSE",
+      "mpn": "CSENSE"
+    },
+    {
+      "ref": "Q1",
+      "value": "PNP",
+      "mpn": "PNP"
+    },
+    {
+      "ref": "C1",
+      "value": "CVS",
+      "mpn": "CVS"
+    },
+    {
+      "ref": "R8",
+      "value": "Ris_Prot",
+      "mpn": "Ris_Prot"
+    },
+    {
+      "ref": "C5",
+      "value": "CVSGND",
+      "mpn": "CVSGND"
+    },
+    {
+      "ref": "R1",
+      "value": "R_LOAD",
+      "mpn": "R_LOAD"
+    },
+    {
+      "ref": "C3",
+      "value": "CVS",
+      "mpn": "CVS"
+    },
+    {
+      "ref": "R4",
+      "value": "RGND",
+      "mpn": "RGND"
+    },
+    {
+      "ref": "R5",
+      "value": "RIN_4k7",
+      "mpn": "RIN_4k7"
+    },
+    {
+      "ref": "C2",
+      "value": "Cout0",
+      "mpn": "Cout0"
+    },
+    {
+      "ref": "D1",
+      "value": "TVS Diode",
+      "mpn": "TVS Diode"
+    },
+    {
+      "ref": "R9",
+      "value": "1k",
+      "mpn": "1k"
+    },
+    {
+      "ref": "D2",
+      "value": "DZ1",
+      "mpn": "DZ1"
+    },
+    {
+      "ref": "R7",
+      "value": "RSENSE",
+      "mpn": "RSENSE"
+    },
+    {
+      "ref": "R3",
+      "value": "R_PD",
+      "mpn": "R_PD"
+    },
+    {
+      "ref": "R6",
+      "value": "4k7",
+      "mpn": "4k7"
+    }
+  ],
+  "nets": []
+}

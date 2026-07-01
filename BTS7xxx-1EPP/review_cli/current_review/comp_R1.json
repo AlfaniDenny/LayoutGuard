@@ -1,0 +1,72 @@
+{
+  "query_type": "component",
+  "ref": "R1",
+  "value": "R_LOAD",
+  "mpn": "R_LOAD",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "R1",
+    "Value": "R_LOAD"
+  },
+  "nets": [
+    {
+      "name": "Net-(C2-Pad1)",
+      "pin": "1"
+    },
+    {
+      "name": "GND",
+      "pin": "2"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "Net-(C2-Pad1)",
+        "fanout": 5,
+        "cross_page": false,
+        "local_refs": [
+          "C2",
+          "R2",
+          "R3",
+          "U1"
+        ],
+        "connected_refs": [
+          "C2",
+          "R2",
+          "R3",
+          "U1"
+        ]
+      },
+      {
+        "net": "GND",
+        "fanout": 11,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "C5",
+          "D1",
+          "D2",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C2",
+          "C4",
+          "C5",
+          "D1",
+          "D2",
+          "R3",
+          "R4",
+          "R7",
+          "U1"
+        ]
+      }
+    ]
+  }
+}

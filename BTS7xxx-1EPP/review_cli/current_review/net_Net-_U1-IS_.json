@@ -1,0 +1,27 @@
+{
+  "query_type": "net",
+  "name": "Net-(U1-IS)",
+  "hierarchical_labels": [],
+  "global_labels": [],
+  "local_labels": [],
+  "pages": [
+    "BTS70044-1EPP_DatasheetV"
+  ],
+  "pins": [
+    {
+      "ref": "R7",
+      "pin": "2",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "R8",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "IS",
+      "page": "BTS70044-1EPP_DatasheetV"
+    }
+  ]
+}

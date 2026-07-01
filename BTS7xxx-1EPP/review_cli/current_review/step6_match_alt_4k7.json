@@ -1,0 +1,19 @@
+{
+  "query_type": "component",
+  "search": "4k7",
+  "matches": [
+    {
+      "ref": "R5",
+      "value": "RIN_4k7",
+      "mpn": "RIN_4k7"
+    },
+    {
+      "ref": "R6",
+      "value": "4k7",
+      "mpn": "4k7"
+    }
+  ],
+  "truncated": false,
+  "shown": 2,
+  "total": 2
+}

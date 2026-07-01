@@ -1,0 +1,22 @@
+{
+  "query_type": "net",
+  "name": "Net-(U1-DEN)",
+  "hierarchical_labels": [],
+  "global_labels": [],
+  "local_labels": [],
+  "pages": [
+    "BTS70044-1EPP_DatasheetV"
+  ],
+  "pins": [
+    {
+      "ref": "R6",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "DEN",
+      "page": "BTS70044-1EPP_DatasheetV"
+    }
+  ]
+}

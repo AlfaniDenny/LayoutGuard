@@ -1,0 +1,17 @@
+{
+  "query_type": "component",
+  "ref": "U1",
+  "value": "BTS7004-1EPP",
+  "mpn": "BTS7004-1EPP",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "U1",
+    "Value": "BTS7004-1EPP",
+    "Footprint": "Package_SO:Infineon_PG-TSDSO-14-22"
+  },
+  "nets": [],
+  "neighbors": {
+    "shared_nets": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "query_type": "component",
+  "ref": "Q1",
+  "value": "PNP",
+  "mpn": "PNP",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "Q1",
+    "Value": "PNP"
+  },
+  "nets": [
+    {
+      "name": "Vs",
+      "pin": "C"
+    },
+    {
+      "name": "unconnected-(Q1-B-Pad2)",
+      "pin": "B"
+    },
+    {
+      "name": "Net-(Q1-E)",
+      "pin": "E"
+    }
+  ],
+  "neighbors": {
+    "shared_nets": [
+      {
+        "net": "unconnected-(Q1-B-Pad2)",
+        "fanout": 1,
+        "cross_page": false,
+        "local_refs": [],
+        "connected_refs": []
+      },
+      {
+        "net": "Net-(Q1-E)",
+        "fanout": 2,
+        "cross_page": false,
+        "local_refs": [
+          "R2"
+        ],
+        "connected_refs": [
+          "R2"
+        ]
+      },
+      {
+        "net": "Vs",
+        "fanout": 6,
+        "cross_page": false,
+        "local_refs": [
+          "C1",
+          "C3",
+          "C5",
+          "D1",
+          "U1"
+        ],
+        "connected_refs": [
+          "C1",
+          "C3",
+          "C5",
+          "D1",
+          "U1"
+        ]
+      }
+    ]
+  }
+}

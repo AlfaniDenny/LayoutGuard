@@ -1,0 +1,16 @@
+{
+  "query_type": "component",
+  "ref": "R7",
+  "value": "RSENSE",
+  "mpn": "RSENSE",
+  "page_index": 1,
+  "page_name": "BTS70044-1EPP_DatasheetV",
+  "properties": {
+    "Reference": "R7",
+    "Value": "RSENSE"
+  },
+  "nets": [],
+  "neighbors": {
+    "shared_nets": []
+  }
+}

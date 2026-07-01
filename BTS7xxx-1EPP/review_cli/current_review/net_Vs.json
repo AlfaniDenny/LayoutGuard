@@ -1,0 +1,42 @@
+{
+  "query_type": "net",
+  "name": "Vs",
+  "hierarchical_labels": [],
+  "global_labels": [],
+  "local_labels": [],
+  "pages": [
+    "BTS70044-1EPP_DatasheetV"
+  ],
+  "pins": [
+    {
+      "ref": "C1",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "C3",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "C5",
+      "pin": "1",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "D1",
+      "pin": "A2",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "Q1",
+      "pin": "C",
+      "page": "BTS70044-1EPP_DatasheetV"
+    },
+    {
+      "ref": "U1",
+      "pin": "VS",
+      "page": "BTS70044-1EPP_DatasheetV"
+    }
+  ]
+}

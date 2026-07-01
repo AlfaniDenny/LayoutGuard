@@ -1,0 +1,14 @@
+{
+  "query_type": "component",
+  "search": "R_OL",
+  "matches": [
+    {
+      "ref": "R2",
+      "value": "R_OL",
+      "mpn": "R_OL"
+    }
+  ],
+  "truncated": false,
+  "shown": 1,
+  "total": 1
+}

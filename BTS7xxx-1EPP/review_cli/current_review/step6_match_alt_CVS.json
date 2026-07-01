@@ -1,0 +1,24 @@
+{
+  "query_type": "component",
+  "search": "CVS",
+  "matches": [
+    {
+      "ref": "C1",
+      "value": "CVS",
+      "mpn": "CVS"
+    },
+    {
+      "ref": "C5",
+      "value": "CVSGND",
+      "mpn": "CVSGND"
+    },
+    {
+      "ref": "C3",
+      "value": "CVS",
+      "mpn": "CVS"
+    }
+  ],
+  "truncated": false,
+  "shown": 3,
+  "total": 3
+}
