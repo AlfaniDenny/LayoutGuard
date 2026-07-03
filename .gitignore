@@ -6,6 +6,9 @@ __pycache__/
 BTS7xxx-1EPP/.github/skills/create-pptx/output/
 BTS7xxx-1EPP/.github/skills/create-pptx/**/__pycache__/
 
+# Ignore local GitHub skill folder in BTS project
+BTS7xxx-1EPP/.github/
+
 # Local virtual environments
 .venv/
 venv/
