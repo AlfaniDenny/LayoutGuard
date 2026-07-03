@@ -12,12 +12,13 @@ This repository combines:
   - KiCad project files
   - Datasheet and review context artifacts
   - `review_cli/` generated review outputs
-  - `.github/skills/create-pptx/` presentation generation skill assets
 - `schematic-analyzer/`
   - `scripts/` core analyzer and CLI implementation
   - `patterns/` protocol and rule pattern definitions
   - `tests/` automated test coverage
 - `LICENSE`
+- `README.md`
+- `.gitignore`
 
 ## Quick Start
 
@@ -48,6 +49,12 @@ pip install -r schematic-analyzer/scripts/requirements.txt
 pytest schematic-analyzer/tests
 ```
 
+### 5. Optional: run analyzer CLI
+
+```bash
+python schematic-analyzer/scripts/schematic-cli.py --help
+```
+
 ## Working Workflow
 
 Typical daily workflow:
@@ -64,9 +71,8 @@ Current default branch: `main`
 
 ## Notes
 
-- `__pycache__/` and other generated artifacts may appear after local execution.
-- Presentation automation assets are available under:
-  - `BTS7xxx-1EPP/.github/skills/create-pptx/`
+- Generated local artifacts such as `__pycache__/` are ignored via `.gitignore`.
+- The local BTS `.github` skill folder is intentionally excluded from this repository.
 - Keep commits focused (small, reviewable changes).
 
 ## Maintainer
