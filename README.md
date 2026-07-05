@@ -289,3 +289,9 @@ Guidance source : Infineon BTS7xxx Application Note
 Tool source     : github.com/AlfaniDenny/LayoutGuard
 Review system   : GitHub Copilot + VSCode
 Maintainer      : Alfani Denny
+
+## Copyright and Attribution
+
+- For code/content derived from the original upstream source, existing copyright attribution to Seeed Studio is intentionally preserved.
+- New contributions in this repository may include additional copyright attribution to Alfani Denny.
+- Attribution for new contributions is additive and does not replace upstream attribution.
